@@ -1,0 +1,19 @@
+# ---- Build output ----
+.exe
+.o
+.obj
+.out
+.pdb
+.ilk
+
+# ---- IDE  OS clutter ----
+.idea
+.swp
+~
+.DS_Store
+Thumbs.db
+
+# ---- Build folders (in case you ever add them) ----
+build
+bin
+obj
